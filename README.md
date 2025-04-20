@@ -30,7 +30,7 @@ El objetivo es explorar métricas clave que ayuden a comprender el rendimiento d
 
 ## Cómo usar este proyecto
 
-1. Abre el notebook `proyecto_ventas.ipynb` en Google Colab.
+1. Abre el notebook `AluraStoreLatam.ipynb` en Google Colab.
 2. Asegúrate de subir los archivos CSV correspondientes.
 3. Ejecuta las celdas del notebook para obtener los resultados.
 4. Explora los datos y descubre insights.
